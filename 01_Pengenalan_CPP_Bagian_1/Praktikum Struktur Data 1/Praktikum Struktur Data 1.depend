@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1727074390 source:d:\strukdat\praktikum struktur data 1\src\percobaan1.cpp
+	"Percobaan1.h"
+
+1727074390 d:\strukdat\praktikum struktur data 1\include\percobaan1.h
+
+1727419186 source:d:\strukdat\praktikum struktur data 1\main.cpp
+	<iostream>
+	<iostream>
+	<iostream>
+	<stdio.h>
+	<conio.h>
+	<iostream>
+
