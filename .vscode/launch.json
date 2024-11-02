@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "d:/Struktur_Data/05_Single_Linked_List_Bagian_2/UNGUIDED",
-      "program": "d:/Struktur_Data/05_Single_Linked_List_Bagian_2/UNGUIDED/build/Debug/outDebug",
+      "cwd": "d:/Struktur_Data/07_Double_Linked_List_Bagian_2/GUIDED",
+      "program": "d:/Struktur_Data/07_Double_Linked_List_Bagian_2/GUIDED/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
