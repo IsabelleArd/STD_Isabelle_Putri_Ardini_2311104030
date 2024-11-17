@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "d:/Struktur_Data/08_Queue/UNGUIDED",
-      "program": "d:/Struktur_Data/08_Queue/UNGUIDED/build/Debug/outDebug",
+      "cwd": "d:/Struktur_Data/09_Tree/GUIDED",
+      "program": "d:/Struktur_Data/09_Tree/GUIDED/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
