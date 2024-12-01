@@ -1,4 +1,4 @@
-#include <iostream>
+ #include <iostream>
 
 using namespace std;
 
@@ -11,6 +11,7 @@ int kendaraan(int kapasitas_kendaraan, int jumlah_penumpang) {
     return jumlah;
 }
 
+
 int main() {
     int kap_kendaraan, jum_penumpang, banyak_kendaraan;
     cout << "Masukkan kapasitas kendaraan: ";
@@ -21,3 +22,15 @@ int main() {
     cout << "Banyak kendaraan yang disewa: " << banyak_kendaraan << endl;
     return 0;
 }
+
+
+/*
+int main() {
+    int kapasitasKendaraan, jumlahPenumpang, banyakKendaraan;
+    cout << "Masukkan kendaraan : " << kapasitasKendaraan << endl;
+    cout << "Masukkan jumlah penumpang : " << jumlahPenumpang << endl;
+    banyakKendaraan = kendaraan(kapasitasKendaraan, jumlahPenumpang);
+    cout << "Banyak kendaraan yang disewa : " << banyakKendaraan << endl;
+    return 0;
+}
+*/
