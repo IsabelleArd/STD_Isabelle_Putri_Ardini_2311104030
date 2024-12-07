@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "d:/Struktur_Data/02_Pengenalan_CPP_Bagian_2/TP",
-      "program": "d:/Struktur_Data/02_Pengenalan_CPP_Bagian_2/TP/build/Debug/outDebug",
+      "cwd": "d:/Struktur_Data/11_Multi_Linked_List/UNGUIDED",
+      "program": "d:/Struktur_Data/11_Multi_Linked_List/UNGUIDED/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
